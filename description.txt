@@ -1,0 +1,4 @@
+Exported from Survey Solutions Headquarters 5.21.10 (build 17456) on Thursday, August 3, 2017
+
+Session 2B - Mastering the Basic of Questionnaire Design(Q2).tab
+province, region, interview_dt, hh_name, hh_age, plant_crop_y_n, plant_crop_name, hh_member_nm_n_har, hh_member_nm_harvest, irrigation, harvest_less_area_y_n, harvest_less_area

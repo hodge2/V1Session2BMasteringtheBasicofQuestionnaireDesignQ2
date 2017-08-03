@@ -1,0 +1,10 @@
+﻿Order	Originator	Role	Date	Time	Variable	InterviewId	Comment
+1	Interviewer12	Interviewer	08/01/2017	07:35:25	@@Completed	ae59b33ef718459598bef5bea9185bcb	No crops, no questions
+1	Interviewer9	Interviewer	08/01/2017	07:36:48	@@Completed	d87798a5cca541c48fa02dd18750e4c8	No crops planted
+1	Interviewer19	Interviewer	08/01/2017	07:55:39	@@Completed	46a14d3a983a455fbe29e97af79a32f2	completed interview
+1	Supervisor16	Supervisor	08/02/2017	00:05:27	@@ApprovedBySupervisor	663fe02ca73142fd852bf58c8b721b38	Completed
+2	Supervisor8	Supervisor	08/02/2017	00:13:30	@@ApprovedBySupervisor	d87798a5cca541c48fa02dd18750e4c8	ok,thank you
+1	Supervisor23	Supervisor	08/02/2017	00:13:38	@@ApprovedBySupervisor	89cc26e1f71648e5b77358446f16e186	good job
+1	Supervisor14	Supervisor	08/02/2017	00:14:28	@@ApprovedBySupervisor	1b92aaa33708452e8687b3afd73d0093	thank you
+1	Supervisor21	Supervisor	08/02/2017	00:17:12	@@ApprovedBySupervisor	9041eff0ef1b453aa16e29fd7d7528ce	approved!
+1	Supervisor26	Supervisor	08/02/2017	00:18:30	@@ApprovedBySupervisor	0c31758e9c6e4e4598add181c2fd1f99	Excellent Job
